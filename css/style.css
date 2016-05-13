@@ -40,3 +40,18 @@ display: none;
 display: none;
 font-style: italic;
 }
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 56px;
+}
+body{
+	display: inline-block;
+	background: pink;
+}
+.question{
+	font-size: 26px;
+}
+.intro{
+	font-size: 20px;
+}
